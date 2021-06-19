@@ -1,2 +1,2 @@
-# coaction-web.git.io
+# coaction-web
 Website for accounting business from Canada.
